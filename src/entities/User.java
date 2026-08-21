@@ -8,6 +8,7 @@ public class User {
     private String role;
     private String status;
     private String flightName;
+    private String description;
   //  vgfdhgjg
   public static void main(String[] args) {
 
