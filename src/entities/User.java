@@ -9,4 +9,7 @@ public class User {
     private String status;
     private String flightName;
   //  vgfdhgjg
+  public static void main(String[] args) {
+
+  }
 }
